@@ -75,4 +75,4 @@ def study():
 
 
 if __name__ == '__main__':
-    app.run(host="192.168.71.57", port=11451, debug=True)
+    app.run(host="0.0.0.0", port=11451, debug=True)
